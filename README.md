@@ -1,2 +1,2 @@
 # Prolog
-Zbiór zadań z prologa realizowanych podczas studiów.
+Zbiór programów z prologa realizowanych podczas studiów.
